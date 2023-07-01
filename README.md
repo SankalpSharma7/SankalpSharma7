@@ -82,7 +82,8 @@ Go           12 mins         ▒░░░░░░░░░░░░░░░░
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SankalpSharma7&show_icons=true&hide_border=true" />
 
 </details>
-
+<br />
+<br />
 <details>
   <summary>:zap: Most Used Languages</summary>
 
