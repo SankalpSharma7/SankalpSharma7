@@ -75,7 +75,7 @@ Go           12 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div style="text-align: center;">
-    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Paris" style="width: 45%;">
+    <img align="center" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Paris" style="width: 45%;">
 </div>
 
 <details>
