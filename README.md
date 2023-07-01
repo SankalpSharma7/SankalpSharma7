@@ -1,12 +1,12 @@
 <h1 align="center">Hi , I'm Sankalp</h1>
 <h3 align="center">A Backend Dev! 👨🏻‍💻</h3>
 
-<img align="right" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
+<img align="right" alt="Coding" width="45%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 
 
   
-- I'm interested in programming, music, singing, travelling, trekking.
+- 👀 I'm interested in programming, music, singing, travelling, trekking.
   
 - 🌱 My recent interests are **bitcoin, Web3 and blockchain.**
   
@@ -74,6 +74,7 @@ Go           12 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<img align="right" alt="Coding" width="45%" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -81,7 +82,7 @@ Go           12 mins         ▒░░░░░░░░░░░░░░░░
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SankalpSharma7&show_icons=true&hide_border=true" />
 
 </details>
-
+<br />
 <details>
   <summary>:zap: Most Used Languages</summary>
 
