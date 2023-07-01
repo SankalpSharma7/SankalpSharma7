@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Sankalp</h1>
 <h3 align="center">A Backend Dev! 👨🏻‍💻</h3>
 
-<img align="right" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
+<img align="right" alt="Coding" width="50%" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
 
 
