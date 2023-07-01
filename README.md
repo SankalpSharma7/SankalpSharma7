@@ -1,29 +1,23 @@
-<h1 align="center">Hi , I'm Sankalp Sharma</h1>
-<h3 align="center">A passionate Frontend Developer, Photographer! 👨🏻‍💻📸</h3>
+<h1 align="center">Hi , I'm Sankalp</h1>
+<h3 align="center">A Backend Dev! 👨🏻‍💻📸</h3>
 
 <img align="right" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
 
 
 
 
-- 👀 I’m interested in **Frontend technologies**
+- 👀 I’m interested in **Backend technologies**
 
 - 🌱 I’m currently learning **Web3 and trying to work on a project that implements it.**
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **sankalp.sharma156@gmail.com**
+- 📫 How to reach me **sharma.sankalp7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sankalp-sharma156" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-sharma156" height="25" width="35" /></a>
-<a href="https://instagram.com/sankalpsharma._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpsharma._" height="25" width="35" /></a>
-  <a href="https://open.spotify.com/user/sankalp0501" target="_blank">
-  <img align="center" alt="Sankalp's Spotify" height="25" width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" />
-</a>
-  <a href="https://music.apple.com/in/listen-now" target="_blank">
-  <img align="center" alt="Sankalp's Apple Music" height="25" width="35" src="https://github.com/troy351/iOS10-SVG-ICONS/blob/gh-pages/images/icon/Music.svg" />
-</a>
+<a href="https://www.linkedin.com/in/sankalpsharma7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-sharma156" height="25" width="35" /></a>
+<a href="https://www.instagram.com/sankalp.sharmaa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpsharma._" height="25" width="35" /></a>
 </p>
 
 </br>
@@ -33,14 +27,9 @@
 ### I am currently listening to -
 
 [![Spotify](https://novatorem-sandy-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/sankalp0501)
-
-### Checkout my Photography on Unsplash! 👇🏻
   
   </br>
   
- <a href="https://unsplash.com/@sankalp156" target="_blank"> 
-  <img align="left" alt="Sankalp's Unsplash" width="500" height="300" src="https://cdn.dribbble.com/users/3022/screenshots/14356865/media/092a05064f6627dfebeb4e28c27f921f.gif" />
-</a>
 
 </br>
 </br>
@@ -92,29 +81,19 @@ CSS          12 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/sankalpsharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="30%" ></a>
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sankalpsharmaofficial&show_icons=true&hide_border=true" />
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SankalpSharma7&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpsharmaofficial" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SankalpSharma7" />
 
 </details>
-<!---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpsharmaofficial&" alt="sankalpsharmaofficial" /></p>
---->
 
-<!---
-sankalpsharmaofficial/sankalpsharmaofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
