@@ -1,16 +1,16 @@
 <h1 align="center">Hi , I'm Sankalp</h1>
-<h3 align="center">A Backend Dev! 👨🏻‍💻📸</h3>
+<h3 align="center">A Backend Dev! 👨🏻‍💻</h3>
 
 <img align="right" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
 
 
 
 
-- 👀 I’m interested in **Backend technologies**
+- 👀 I’m interested in **Backend**
 
 - 🌱 I’m currently learning **Web3 and trying to work on a project that implements it.**
 
-- 💬 Ask me about **web development**
+- I'm interested in programming, music, singing 
 
 - 📫 How to reach me **sharma.sankalp7@gmail.com**
 
@@ -22,12 +22,7 @@
 
 </br>
 </br>
-</br>
-
-### I am currently listening to -
-
-[![Spotify](https://novatorem-sandy-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/sankalp0501)
-  
+</br> 
   </br>
   
 
@@ -73,11 +68,11 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 10 mins  ███████████▒░░░░░░░░░░░░░   45.18 % 
-TypeScript   9 hrs 24 mins   ██████████▒░░░░░░░░░░░░░░   41.76 % 
-JSX          1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-HTML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TypeScript   10 hrs 10 mins  ███████████▒░░░░░░░░░░░░░   45.18 % 
+AWS          9 hrs 24 mins   ██████████▒░░░░░░░░░░░░░░   41.76 % 
+C++          1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   8.56 %
+Java         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Go           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
 
