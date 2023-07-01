@@ -6,7 +6,7 @@
 
 
   
-- I'm interested in programming, music, singing, travelling, trekking.
+- 👀 I'm interested in programming, music, singing, travelling, trekking.
   
 - 🌱 My recent interests are **bitcoin, Web3 and blockchain.**
   
