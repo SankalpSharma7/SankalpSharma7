@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sankalpsharma7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-sharma156" height="25" width="35" /></a>
 <a href="https://www.instagram.com/sankalp.sharmaa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankalpsharma._" height="25" width="35" /></a>
+<a href="https://sankalpsharma7.github.io/" target="_blank"><img align="center" src="https://github.com/SankalpSharma7/SankalpSharma7/blob/main/Screenshot%202023-07-01%20at%209.10.49%20PM.png" alt="sankalpsharma._" height="25" width="35" /></a>
 </p>
 
 </br>
