@@ -74,7 +74,7 @@ Go           12 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img class="center" alt="Paris" width="45%" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
+<img align="center" class="center" alt="Paris" width="45%" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 <details>
   <summary>:zap: GitHub Stats</summary>
