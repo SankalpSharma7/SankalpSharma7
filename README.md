@@ -5,13 +5,11 @@
 
 
 
-
-- 👀 I’m interested in **Backend**
-
-- 🌱 I’m currently learning **Web3 and trying to work on a project that implements it.**
-
-- I'm interested in programming, music, singing 
-
+  
+- I'm interested in programming, music, singing, travelling, trekking.
+  
+- 🌱 My recent interests are **bitcoin, Web3 and blockchain.**
+  
 - 📫 How to reach me **sharma.sankalp7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
