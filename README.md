@@ -1,5 +1,7 @@
 <h1 align="center">Hi , I'm Sankalp</h1>
+</br>
 <h3 align="center">A Backend Dev! 👨🏻‍💻</h3>
+</br>
 
 <img align="right" alt="Coding" width="45%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
@@ -8,7 +10,7 @@
   
 - 👀 I'm interested in programming, music, singing, travelling, trekking.
   
-- 🌱 My recent interests are **bitcoin, Web3 and blockchain.**
+- 🌱 I'm also interested in and trying to learn more about  **bitcoin,blockchain and AI**
   
 - 📫 How to reach me **sharma.sankalp7@gmail.com**
 
