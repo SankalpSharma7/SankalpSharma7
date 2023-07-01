@@ -38,9 +38,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
 
 
 **languages and tools:**  
