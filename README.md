@@ -8,11 +8,11 @@
 
 
   
-- 👀 I'm interested in programming, music, singing, travelling, trekking.
+- 🤖 I'm interested in programming, music, singing, travelling, trekking.
   
-- 🌱 I'm also interested in and trying to learn more about  **bitcoin,blockchain and AI**
+- 🔎 I'm also interested in and trying to learn more about  **bitcoin,blockchain and AI**
   
-- 📫 How to reach me **sharma.sankalp7@gmail.com**
+- 🧟‍♂️ How to reach me **sharma.sankalp7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
