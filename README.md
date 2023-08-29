@@ -10,7 +10,7 @@
   
 - 🤖 I'm interested in programming, music, singing, travelling, trekking.
   
-- 🔎 I'm also interested in and trying to learn more about  **bitcoin,blockchain and AI**
+- 🔎 Also trying to get my hands dirty with **bitcoin,blockchain and AI**
   
 - 🧟‍♂️ How to reach me **sharma.sankalp7@gmail.com**
 
